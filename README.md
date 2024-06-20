@@ -1,0 +1,2 @@
+**Introduction to Web Programing**
+-  Fundamentals of developing web pages using a comprehensive web development life cycle. Learn to design and code practical real-world homepage programs and earn adequate experience with current web design techniques such as HTML5 and cascading style sheets. Students also learn additional programming languages including JavaScript, jQuery, PHP, SQL, and MySQL. Strategies for accessibility, usability and search engine optimization.
